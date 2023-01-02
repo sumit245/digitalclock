@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
+import DigitalClock from './DigitalClock';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
