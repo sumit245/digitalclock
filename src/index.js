@@ -1,12 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Feature1 from './components/ChangingBackground';
-import Feature2 from './Feature2';
 import reportWebVitals from './reportWebVitals';
-import App from './components/Counter'
-import Feature4 from './Feature4';
-import Autocomplete from './components/Autocomplete';
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -14,14 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 // webpack-bundles all the scripts and serve it to the browser container
 root.render(
   <React.StrictMode>
-    <App />
-    {/* <Feature1 /> */}
-    {/* <Feature2 /> */}
-    {/* <App/>
-     */}
-    {/* <Feature4 /> */}
-    {/* <Chang */}
-    {/* <Autocomplete /> */}
+    <DigitalClock />
   </React.StrictMode>
 );
 
