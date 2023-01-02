@@ -1,0 +1,2 @@
+export const rainbow = ['violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
+export const cities = ['Ahmedabad', 'Banglore', 'Chennai', 'Delhi', 'Ernakulum', 'Firozabad', 'Gurgaon', 'Hyderabad', 'Imphal', 'Jammu']
